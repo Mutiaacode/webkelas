@@ -41,7 +41,7 @@ const GalleryKelas = () => {
 
   return (
     <div className="flex flex-col items-center p-4 min-h-screen">
-      <h1 className="text-3xl font-bold text-white mb-6">Gallery Kelas</h1>
+      <h1 className="text-3xl font-bold text-white mb-6"></h1>
       {imageList.length === 0 ? (
         <p className="text-white">No images found</p>
       ) : (
