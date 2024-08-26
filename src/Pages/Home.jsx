@@ -39,7 +39,7 @@ const Home = () => {
 						<BoxTextAnonim />
 						
 					</div>
-					<BoxMusic />
+					
 				</div>
 			</div>
 
