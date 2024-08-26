@@ -1,5 +1,5 @@
 
-const BoxOldWeb = () => {
+const BoxClassIg = () => {
 	return (
 		<div id="BoxOldWeb">
 			<a href="https://ngl.link/rplb.skanthree">
@@ -13,4 +13,4 @@ const BoxOldWeb = () => {
 	)
 }
 
-export default BoxOldWeb
+export default BoxClassIg
