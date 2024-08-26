@@ -35,7 +35,7 @@ const MusicPlayerBox = () => {
       <h1 className="text-xl font-semibold mt-4">Now Playing</h1>
       <p className="text-sm opacity-75"></p>
       
-      <audio ref={audioRef} src="duka.mp3" preload="auto" />
+      <audio ref={audioRef} src="dj.mp3" preload="auto" />
     </div>
   );
 };
