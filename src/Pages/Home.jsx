@@ -1,4 +1,5 @@
 import BoxClassIg from "../components/BoxClassIg"
+import BoxMusic from"../components/BoxMusic"
 import BoxOldWeb from "../components/BoxOldWeb"
 import BoxTextAnonim from "../components/BoxTextAnonim"
 import Navbar from "../components/Navbar"
@@ -38,6 +39,7 @@ const Home = () => {
 						<BoxTextAnonim />
 						
 					</div>
+					<BoxMusic />
 				</div>
 			</div>
 
